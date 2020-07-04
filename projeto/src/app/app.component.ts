@@ -18,4 +18,6 @@ export class AppComponent {
   novo(){
     this.router.navigate(["adicionar"]);
   }
+
+  
 }
